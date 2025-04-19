@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bqyz9418y4w=",
+  "success": true,
+  "projectFilePath": "D:\\ReportApp\\ReportApp\\ReportApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adeli\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\adeli\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
